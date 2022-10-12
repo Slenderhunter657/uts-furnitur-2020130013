@@ -24,3 +24,5 @@ Route::get('/products', [ProductController::class,'index'])->name("product");
 Route::get('/testimonials', [TestimonyController::class,'index'])->name("testimony");
 
 Route::get('/about', [AboutController::class,'index'])->name("about");
+
+Route::fallback([IndexController::class,'index']);
