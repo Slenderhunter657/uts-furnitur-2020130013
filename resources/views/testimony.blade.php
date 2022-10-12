@@ -5,11 +5,13 @@
     <p class="lead"> See what others say about IKEAH!</p>
     <p class="text-left"> We like to hear what people says about our product, our staff, and of course, about the company! </p>
     <a class="btn btn-primary" href="#testimony" role="button">Let's check them out!</a>
+    <br>
+    <hr class="my-5">
+    <p class="text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi luctus posuere velit, in pharetra metus lacinia id. Donec et faucibus sem. Nam sit amet mattis sapien. Proin laoreet velit quis ipsum tempor, quis aliquet velit posuere. Etiam eget dignissim turpis. Maecenas euismod lobortis arcu in convallis. Morbi nibh enim, fringilla vitae odio a, vestibulum congue quam. </p>
 @endsection
 @section('contentBottom')
     <div id="testimony" class="container text-center mt-3 p-4" style="background-color: rgba(0,0,0,0.6)">
         <h1>Testimony</h1>
-        <h3>Courtesy of: https://testimonial-generator.com/index.php</h3>
         <div class="card-columns">
                 <div class="card">
                     "<i>Nice work on your furniture. The service was excellent. I couldn't have asked for more than this. I didn't even need training.</i>"
@@ -48,5 +50,7 @@
                     <br><b>- Patin J.</b>
                 </div>
         </div>
+        <br><hr class="my-5">
+        <h5>Courtesy of: https://testimonial-generator.com/index.php</h5>
     </div>
 @endsection

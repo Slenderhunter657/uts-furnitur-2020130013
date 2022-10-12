@@ -6,6 +6,9 @@
     <p class="text-left"> Our designers, engineers, and architects work hard for your convenience. Everything we sold are high quality. There's enough of them
         that we never sold out. Most importantly, everything is designed specifically for your comfort!</p>
     <a class="btn btn-primary" href="#product" role="button">See them for yourself!</a>
+    <br>
+    <hr class="my-5">
+    <p class="text-left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi luctus posuere velit, in pharetra metus lacinia id. Donec et faucibus sem. Nam sit amet mattis sapien. Proin laoreet velit quis ipsum tempor, quis aliquet velit posuere. Etiam eget dignissim turpis. Maecenas euismod lobortis arcu in convallis. Morbi nibh enim, fringilla vitae odio a, vestibulum congue quam. </p>
 @endsection
 
 @section('contentBottom')
